@@ -82,4 +82,7 @@ select {
     border-radius: 0.5rem;
     height: 100%;
     position: relative;
+    color: black;
+    background-color: white;
+    width: 30%;
 }
