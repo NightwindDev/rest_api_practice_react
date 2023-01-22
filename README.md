@@ -9,3 +9,6 @@
 ## The Aim of the Project
 
 I used this project as a way of practicing and improving my API fetching skills with the help of ReactJS.
+
+## Screenshot of It In Action
+<img src="./public/screenshot.png" />
